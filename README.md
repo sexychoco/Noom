@@ -11,12 +11,13 @@ WebRTC , Websockets 을 활용해 만든 실시간 화상회의 어플(Zoom) 프
 
 ### Features 
 
-* 닉네임 설정 및 변경 
 * 채널 생성, 입장, 퇴장
 * 비디오/오디오 제어 
 * Data Channels 에 기반한 실시간 채팅 
 
-
+|입장|실시간 채팅|
+|---|---|
+![zoom](https://user-images.githubusercontent.com/95459711/160240360-02ae805a-3b01-4b76-b602-e245230268d5.jpg)|![zoom2](https://user-images.githubusercontent.com/95459711/160240362-baa686d3-7828-4254-b041-8dc7559cdaf8.jpg)
 
 
 
